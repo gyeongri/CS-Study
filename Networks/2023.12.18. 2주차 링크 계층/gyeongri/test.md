@@ -1,6 +1,6 @@
 # 네트워크 스터디 2주차
 
-![Untitled1](%E1%84%82%E1%85%A6%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AF%E1%84%8F%E1%85%B3%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%202%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%2024b3ce1fbadb4f4389f1cee50fb55b44/Untitled.png)
+![Untitled1]([%E1%84%82%E1%85%A6%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AF%E1%84%8F%E1%85%B3%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%202%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%2024b3ce1fbadb4f4389f1cee50fb55b44/Untitled.png](https://github.com/gyeongri/CS-Study/assets/50294908/922c079e-4e7c-4072-966a-3a745bfb0b3a))
 
 하나의 네트워크 대역 = 하나의 LAN
 
