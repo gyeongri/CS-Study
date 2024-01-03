@@ -1,6 +1,6 @@
 # 네트워크 스터디 2주차
 
-![Untitled 1]((https://github.com/gyeongri/CS-Study/assets/50294908/922c079e-4e7c-4072-966a-3a745bfb0b3a)
+![Untitled 1](https://github.com/gyeongri/CS-Study/assets/50294908/922c079e-4e7c-4072-966a-3a745bfb0b3a)
 
 하나의 네트워크 대역 = 하나의 LAN
 
