@@ -1,12 +1,14 @@
 # 네트워크 스터디 2주차
 
-![Untitled 1]([%E1%84%82%E1%85%A6%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AF%E1%84%8F%E1%85%B3%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%202%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%2024b3ce1fbadb4f4389f1cee50fb55b44/Untitled.png](https://github.com/gyeongri/CS-Study/assets/50294908/922c079e-4e7c-4072-966a-3a745bfb0b3a))
+![Untitled 1]((https://github.com/gyeongri/CS-Study/assets/50294908/922c079e-4e7c-4072-966a-3a745bfb0b3a)
 
 하나의 네트워크 대역 = 하나의 LAN
 
 흐름 제어: 누가 누구한테 보내는지, 오류제어: 오류가 있는지 없는지
 
-![Untitled2](%E1%84%82%E1%85%A6%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AF%E1%84%8F%E1%85%B3%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%202%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%2024b3ce1fbadb4f4389f1cee50fb55b44/Untitled%201.png)
+![Untitled2](https://github.com/gyeongri/CS-Study/assets/50294908/efd0a387-48a1-4aa9-97f0-357e761d1893)
+
+
 
 ![Untitled3](%E1%84%82%E1%85%A6%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AF%E1%84%8F%E1%85%B3%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%202%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%2024b3ce1fbadb4f4389f1cee50fb55b44/Untitled%202.png)
 
