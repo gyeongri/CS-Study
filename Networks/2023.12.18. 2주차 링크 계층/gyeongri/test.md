@@ -10,7 +10,7 @@
 
 
 
-![Untitled3](%E1%84%82%E1%85%A6%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AF%E1%84%8F%E1%85%B3%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%202%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%2024b3ce1fbadb4f4389f1cee50fb55b44/Untitled%202.png)
+![Untitled 3](https://github.com/gyeongri/CS-Study/assets/50294908/18a18867-45c7-4bef-8ea2-0188454cea04)
 
 MAC 주소: 물리적인 주소
 
@@ -18,13 +18,13 @@ MAC 주소: 물리적인 주소
 
 -로 쓰기도 하고 :으로 쓰기도 함.
 
-![Untitled4](%E1%84%82%E1%85%A6%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AF%E1%84%8F%E1%85%B3%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%202%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%2024b3ce1fbadb4f4389f1cee50fb55b44/Untitled%203.png)
+![Untitled 4](https://github.com/gyeongri/CS-Study/assets/50294908/799a0b8c-50ac-499b-851b-edbc268abd6a)
 
 앞의 6개: 고유한 ID/OUI(MAC 주소를 부여한 회사의 고유값(ex) 삼성에서 만들었으면 삼성
 
 뒤의 6개: 고유한 번호/삼성에서 만든 ~번??
 
-![Untitled5](%E1%84%82%E1%85%A6%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AF%E1%84%8F%E1%85%B3%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%202%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%2024b3ce1fbadb4f4389f1cee50fb55b44/Untitled%204.png)
+![Untitled 5](https://github.com/gyeongri/CS-Study/assets/50294908/71fe0143-c64c-4307-86fc-fda678c4bdbd)
 
 목적지 주소: MAC 주소
 
@@ -34,7 +34,7 @@ MAC 주소: 물리적인 주소
 
 - 이더넷 프로토콜: 보내는 사람, 받는 사람, 이더넷 타입 → 14바이트
 
-![Untitled6](%E1%84%82%E1%85%A6%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AF%E1%84%8F%E1%85%B3%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%202%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%2024b3ce1fbadb4f4389f1cee50fb55b44/Untitled%205.png)
+![Untitled 6](https://github.com/gyeongri/CS-Study/assets/50294908/977805da-1e43-4bc4-bf9a-e628a4e38fda)
 
 받는사람:BB.., 보내는 사람:AA…
 
@@ -42,7 +42,7 @@ MAC 주소: 물리적인 주소
 
 → 0800: IPV4(이더넷 프로토콜의 상위 프로토콜), 0806: ARP
 
-![Untitled7](%E1%84%82%E1%85%A6%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AF%E1%84%8F%E1%85%B3%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%202%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%2024b3ce1fbadb4f4389f1cee50fb55b44/Untitled%206.png)
+![Untitled 7](https://github.com/gyeongri/CS-Study/assets/50294908/01d862a3-59c1-4e0b-a752-f40c499c08b4)
 
 L2 스위치
 
@@ -60,7 +60,7 @@ link up: 연결이 됐다(녹색)
 
 link down: 연결이 끊겼다. (선에 문제가 생겼나 물리적으로 연결이 끊어짐)
 
-![Untitled8](%E1%84%82%E1%85%A6%E1%84%90%E1%85%B3%E1%84%8B%E1%85%AF%E1%84%8F%E1%85%B3%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%202%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%2024b3ce1fbadb4f4389f1cee50fb55b44/Untitled%207.png)
+![Untitled 8](https://github.com/gyeongri/CS-Study/assets/50294908/fab233c0-074f-40b0-bd47-f820dfe981f1)
 
 L2 디스트리뷰션 스위치는 마지막으로 라우터로 모인다.
 
